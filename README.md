@@ -43,7 +43,7 @@ Aplikasi ini dibuat untuk memenuhi tugas Rekayasa Data Departemen Teknik Elektro
  ### [Modeling Steam API - Steam Web Scraping - Youtube](https://github.com/.....)
 
 - Brief overview:Membuktikan apakah popularitas game pada YouTube sesuai dengan Peak Players per harinya.
-- Power BI:  <img src="https://img.shields.io/badge/powerbi-3-yellow" alt="https://app.powerbi.com/view?r=eyJrIjoiNzFkMDMxZDEtYjEyNi00NDM4LWIwYWEtOGY0YTg0ODc2Yzg5IiwidCI6ImFmMmMwNzM0LWNiNDItNDY0Zi1iNmJmLTJhMjQxYjZhZGE1NiIsImMiOjEwfQ%3D%3D)">
+- Power BI: [https://app.powerbi.com/view?r=eyJrIjoiNzFkMDMxZDEtYjEyNi00NDM4LWIwYWEtOGY0YTg0ODc2Yzg5IiwidCI6ImFmMmMwNzM0LWNiNDItNDY0Zi1iNmJmLTJhMjQxYjZhZGE1NiIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?
 - Source:
   1. Youtube API V3
   2. Steam Game API
