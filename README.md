@@ -26,29 +26,27 @@ Fakultas kami berhasil meraih prestasi di Porsenigama, sebuah ajang kompetisi be
 # Bubbly Backdrop 🌱 
 Aplikasi ini dibuat untuk memenuhi tugas Rekayasa Data Departemen Teknik Elektro dan Teknologi Informasi Universitas Gadjah Mada tahun ajaran 2024/2025.
 
-# Notion Docummentation ✍️
-Aplikasi ini dibuat untuk memenuhi tugas Rekayasa Data Departemen Teknik Elektro dan Teknologi Informasi Universitas Gadjah Mada tahun ajaran 2024/2025.
-
-# Video Docummentation 👩🏽‍💻👨🏽‍💻
-Aplikasi ini dibuat untuk memenuhi tugas Rekayasa Data Departemen Teknik Elektro dan Teknologi Informasi Universitas Gadjah Mada tahun ajaran 2024/2025.
+# Docummentation ✍️
+1. Notion 
+2. Video
 
 ### [Modeling Steam API - Steam Web Scraping](https://github.com/.....)
 
 - Brief overview:Membuat prediksi game selanjutnya yang mungkin dimainkan oleh user
 - Source:
-  1. Steam User API
-  2. Steam Game API
-  3. Web Steam (Scraping)
+  1. [Steam User API](https://api.steampowered.com/ISteamUser/GetFriendList/v1/)
+  2. [Steam User Data API](https://api.steampowered.com/IPlayerService/GetOwnedGames/v1/)
+  3. [Steam Game API](https://store.steampowered.com/api/appdetails?appids={app_id})
+  4. [Web Steam (Scraping)](https://steamcharts.com/top)
 
  ### [Modeling Steam API - Steam Web Scraping - Youtube](https://github.com/.....)
 
 - Brief overview:Membuktikan apakah popularitas game pada YouTube sesuai dengan Peak Players per harinya.
-- Power BI:
-  https://app.powerbi.com/view?r=eyJrIjoiNzFkMDMxZDEtYjEyNi00NDM4LWIwYWEtOGY0YTg0ODc2Yzg5IiwidCI6ImFmMmMwNzM0LWNiNDItNDY0Zi1iNmJmLTJhMjQxYjZhZGE1NiIsImMiOjEwfQ%3D%3D
+- [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzFkMDMxZDEtYjEyNi00NDM4LWIwYWEtOGY0YTg0ODc2Yzg5IiwidCI6ImFmMmMwNzM0LWNiNDItNDY0Zi1iNmJmLTJhMjQxYjZhZGE1NiIsImMiOjEwfQ%3D%3D)
 - Source:
-  1. Youtube API V3
-  2. Steam Game API
-  3. Web Steam (Scraping)
+  1. [Youtube API V3](https://console.cloud.google.com/)
+  2. [Steam Game API](https://store.steampowered.com/api/appdetails?appids={app_id})
+  3. [Web Steam (Scraping)](https://steamcharts.com/top)
 
 <p align="center">
  <h2 align="center">How to Use & Clone?</h2>
