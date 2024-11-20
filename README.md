@@ -34,7 +34,7 @@ Aplikasi ini dibuat untuk memenuhi tugas Rekayasa Data Departemen Teknik Elektro
 
 ### [Modeling Steam API - Steam Web Scraping](https://github.com/.....)
 
-- Brief overview:   
+- Brief overview:Membuat prediksi game selanjutnya yang mungkin dimainkan oleh user
 - Source:
   1. Steam User API
   2. Steam Game API
@@ -43,7 +43,8 @@ Aplikasi ini dibuat untuk memenuhi tugas Rekayasa Data Departemen Teknik Elektro
  ### [Modeling Steam API - Steam Web Scraping - Youtube](https://github.com/.....)
 
 - Brief overview:Membuktikan apakah popularitas game pada YouTube sesuai dengan Peak Players per harinya.
-- Power BI: [https://app.powerbi.com/view?r=eyJrIjoiNzFkMDMxZDEtYjEyNi00NDM4LWIwYWEtOGY0YTg0ODc2Yzg5IiwidCI6ImFmMmMwNzM0LWNiNDItNDY0Zi1iNmJmLTJhMjQxYjZhZGE1NiIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?
+- Power BI:
+  https://app.powerbi.com/view?r=eyJrIjoiNzFkMDMxZDEtYjEyNi00NDM4LWIwYWEtOGY0YTg0ODc2Yzg5IiwidCI6ImFmMmMwNzM0LWNiNDItNDY0Zi1iNmJmLTJhMjQxYjZhZGE1NiIsImMiOjEwfQ%3D%3D
 - Source:
   1. Youtube API V3
   2. Steam Game API
