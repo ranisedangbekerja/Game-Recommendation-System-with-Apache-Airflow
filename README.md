@@ -42,8 +42,8 @@ Aplikasi ini dibuat untuk memenuhi tugas Rekayasa Data Departemen Teknik Elektro
 
  ### [Modeling Steam API - Steam Web Scraping - Youtube](https://github.com/.....)
 
-- Brief overview:
-- Power BI: 
+- Brief overview:Membuktikan apakah popularitas game pada YouTube sesuai dengan Peak Players per harinya.
+- Power BI: <iframe title="YouTube-Steam-Popularity" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzFkMDMxZDEtYjEyNi00NDM4LWIwYWEtOGY0YTg0ODc2Yzg5IiwidCI6ImFmMmMwNzM0LWNiNDItNDY0Zi1iNmJmLTJhMjQxYjZhZGE1NiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 - Source:
   1. Youtube API V3
   2. Steam Game API
@@ -102,7 +102,7 @@ The default Postgres DB credentials are: postgres:<postgres>
 2. Click 'connection' in Airflow Page Navbar, let's go setting let yours
 
 # Tools
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![PoweBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![GColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![PoweBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![GColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
 
