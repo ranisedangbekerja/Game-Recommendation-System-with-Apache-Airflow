@@ -27,7 +27,7 @@ Fakultas kami berhasil meraih prestasi di Porsenigama, sebuah ajang kompetisi be
 Aplikasi ini dibuat untuk memenuhi tugas Rekayasa Data Departemen Teknik Elektro dan Teknologi Informasi Universitas Gadjah Mada tahun ajaran 2024/2025.
 
 # Docummentation ✍️
-1. [Notion]( 
+1. [Notion](https://industrious-cowl-959.notion.site/Unlocking-the-Next-Game-Building-a-Personalized-Game-Recommendation-System-with-Apache-Airflow-143279bb043c805ca051ea3b6af98aec?pvs=4)
 2. [Video](https://drive.google.com/drive/folders/1YSkQlebiDR2aYXhfY2jvT1-0zi2ywgJB?usp=sharing)
 
 ### [Modeling Steam API - Steam Web Scraping](https://github.com/.....)
